@@ -5,3 +5,5 @@
 5 lima
 6 enam
 7 tujuh
+8 delapan
+10 sembilan
