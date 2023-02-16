@@ -8,3 +8,5 @@
 8 delapan
 9 sembilan
 10 sepuluh
+11 sebelas
+12 duabelas
